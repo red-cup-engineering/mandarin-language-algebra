@@ -32,7 +32,7 @@
     "@lenticule-science/latin-language-algebra": "0.1.6",
     "@red-cup-engineering/communicating": "0.1.6",
     "@red-cup-engineering/computer-language-systems-engineering-services-section": "0.1.2",
-    "@red-cup-engineering/activitypub-services-section": "0.8.4"
+    "@red-cup-engineering/activitypub-engineering-services-section": "0.8.4"
   },
   "files": [
     "content",
