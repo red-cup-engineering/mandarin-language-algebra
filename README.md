@@ -7,4 +7,4 @@
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
 
-mandarin-language-algebra: 普通话 (Standard Mandarin) as a language fiber — its lexicon, curated closed-class grammar, classifier morphotactics, reference and dictionary-based segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-services-section. This is Mandarin's fiber over @red-cup-engineering/communicating's language-engine algebra, the same role lakota-language-algebra and tokipona-language-algebra play for their languages.
+mandarin-language-algebra: 普通话 (Standard Mandarin) as a language fiber — its lexicon, curated closed-class grammar, classifier morphotactics, reference and dictionary-based segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-science-services-section. This is Mandarin's fiber over @red-cup-engineering/communicating's language-engine algebra, the same role lakota-language-algebra and tokipona-language-algebra play for their languages.
