@@ -1,6 +1,6 @@
 {
   "name": "@lenticule-science/mandarin-language-algebra",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "type": "module",
   "description": "mandarin-language-algebra: 普通话 (Standard Mandarin) as a language fiber — its lexicon, curated closed-class grammar, classifier morphotactics, reference and dictionary-based segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-science-services-section. This is Mandarin's fiber over @red-cup-engineering/communicating's language-engine algebra, the same role lakota-language-algebra and tokipona-language-algebra play for their languages.",
   "repository": {
