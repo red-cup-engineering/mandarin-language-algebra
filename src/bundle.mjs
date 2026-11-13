@@ -2,7 +2,7 @@
 // SVO word order, preposed (LEFT) determiners/adjectives; isolating — no
 // person/number/tense/case inflection, relations ride on word order and
 // structural particles. Tone (声调) is unmodeled: no phonological/tonal
-// feature slot exists; pinyin belongs to emsenn-mandarin-services-section's
+// feature slot exists; pinyin belongs to public-emsenn-mandarin-services-section's
 // glossary content, not here.
 import coreVocabulary from "../content/wordlists/mandarin-core-vocabulary.json" with { type: "json" };
 import verbStems from "../content/wordlists/mandarin-verb-stems.json" with { type: "json" };

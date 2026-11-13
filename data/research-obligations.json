@@ -5,7 +5,7 @@
     "area": "phonology",
     "summary": "Tone (声调) is not modeled at all: ⊥. RawBundle has no phonological/tonal feature slot, and this fiber does not fake tone-sensitive analysis.",
     "currentEvidence": "bundle.mts/.mjs's own top-of-file comment states tone is unmodeled; no pinyin or tone data appears anywhere in this package.",
-    "upgradeEvidence": "Pinyin readings (including tone marks) belong in emsenn-mandarin-services-section's glossary content, not in this syntax/segmentation fiber — a genuine upgrade here would require RawBundle itself to grow a phonological feature slot, which is out of this package's scope."
+    "upgradeEvidence": "Pinyin readings (including tone marks) belong in public-emsenn-mandarin-services-section's glossary content, not in this syntax/segmentation fiber — a genuine upgrade here would require RawBundle itself to grow a phonological feature slot, which is out of this package's scope."
   },
   {
     "id": "core-vocabulary-sourcing",
