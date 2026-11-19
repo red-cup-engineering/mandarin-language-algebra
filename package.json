@@ -1,0 +1,46 @@
+{
+  "name": "@lenticule-science/mandarin-language-algebra",
+  "version": "0.1.8-dev.0",
+  "type": "module",
+  "description": "mandarin-language-algebra: 普通话 (Standard Mandarin) as a language fiber — its lexicon, curated closed-class grammar, classifier morphotactics, reference and dictionary-based segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-science-services-section. This is Mandarin's fiber over @red-cup-engineering/communicating's language-engine algebra, the same role lakota-language-algebra and tokipona-language-algebra play for their languages.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/mandarin-language-algebra.git"
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "bin": {
+    "solicit-service": "./src/mandarin-die.mjs",
+    "invoke-service": "./src/mandarin-die.mjs"
+  },
+  "main": "./src/bundle.mjs",
+  "exports": {
+    ".": "./src/bundle.mjs",
+    "./bundle": "./src/bundle.mjs",
+    "./tag": "./src/tag.mjs",
+    "./package.json": "./package.json",
+    "./segmentation": "./src/segmentation.mjs",
+    "./reading": "./src/reading.mjs",
+    "./interlinear": "./src/interlinear.mjs"
+  },
+  "dependencies": {
+    "@red-cup-engineering/computer-code-engineering-services-section": "^0.2.1",
+    "@lenticule-science/latin-language-algebra": "0.1.10-dev.0",
+    "@red-cup-engineering/communicating": "^0.3.1",
+    "@red-cup-engineering/computer-language-systems-engineering-services-section": "^0.1.8",
+    "@red-cup-engineering/activitypub-engineering-services-section": "^0.11.6"
+  },
+  "files": [
+    "content",
+    "data",
+    "src/"
+  ],
+  "sideEffects": false,
+  "license": "MIT",
+  "private": false,
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
