@@ -31,7 +31,7 @@ function split(levels) {
 }
 
 /** Admission before pricing: the translation's own admission, with the model levels asked for. */
-export function validateMandarinInterlinear(body) {
+export function admitMandarinInterlinear(body) {
   const { model } = split(mandarinInterlinearLevelsOf(body));
   const { levels: _levels, level: _level, ...rest } = body;
   return admitMandarinTranslation({ ...rest, levels: model.length > 0 ? model : ["natural"] }, body.module);
@@ -67,7 +67,7 @@ function textLayout(segments, levels) {
 export async function readMandarinInterlinear(body, env = {}) {
   const levels = mandarinInterlinearLevelsOf(body);
   const { fiber, model } = split(levels);
-  const request = validateMandarinInterlinear(body);
+  const request = admitMandarinInterlinear(body);
   const moduleId = body.module ?? "general";
   const reader = readerFor(moduleId);
   const { levels: _levels, level: _level, ...rest } = body;
